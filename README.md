@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/brevdev-brev-mcp-badge.png)](https://mseep.ai/app/brevdev-brev-mcp)
+
 # Brev MCP server
 
 This is a MCP server implementation for Brev.
